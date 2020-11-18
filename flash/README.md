@@ -101,7 +101,7 @@ measurements.
 **PRINTING** 
 
 * the rain gauge design 3d print files can be found in the
-  [`/build/stl/hydro`](https://github.com/ClimateChangeXplorers/xplorer-manual/tree/master/build/stl/hydro)
+  [`/build/stl/hydro`](https://github.com/NCAR/iotwx-manual/tree/master/build/stl/hydro)
   page. If you need to print, you will need to follow the instructions
   there to print the housing.
 
@@ -115,7 +115,7 @@ measurements.
 ## Aero Node
 
 <img width="360" alt="aero node"
-src="https://github.com/ClimateChangeXplorers/ClimateChangeXplorers.github.io/raw/master/img/wind-node.jpg"/>
+src="https://github.com/NCAR/iotwx-manual/raw/master/img/wind-node.jpg"/>
 
 The aero node is designed to collect wind vane & anemometer wind speed
 and direction.
