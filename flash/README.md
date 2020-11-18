@@ -93,7 +93,7 @@ file has been uploaded to the microcontroller.
 ## Hydro Node
 
 <img width="360" alt="hydro node"
-src="https://github.com/NCAR/iotwx-manual/master/img/hydro-node.jpg"/>
+src="https://github.com/NCAR/iotwx-manual/tree/master/img/hydro-node.jpg"/>
  
 The hydro node is designed to collected and transmit precipitation
 measurements.  
