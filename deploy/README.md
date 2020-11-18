@@ -6,4 +6,8 @@
 
 
 ## Publishing and Visualizing Station Data
+
+<img width="360" alt="visualization"
+src="https://github.com/NCAR/iotwx-manual/blob/main/img/atmos-node.jpg"/>
+
 --
