@@ -60,7 +60,7 @@ simultaneously). These parts can be found in the
 ### Radiation Shield
 
 <img width="360" alt="atmos node"
-src="https://github.com/orgs/NCAR/teams/iotwx/master/img/atmos-node.jpg"/>
+src="https://github.com/NCAR/iotwx-manual/blob/main/img/atmos-node.jpg"/>
 
 The radiation shield sensor captures the following measurements:
 temperature, humidity, barometric pressure, and optionally VOC (if using
@@ -93,7 +93,7 @@ file has been uploaded to the microcontroller.
 ## Hydro Node
 
 <img width="360" alt="hydro node"
-src="https://github.com/NCAR/iotwx-manual/tree/master/img/hydro-node.jpg"/>
+src="https://github.com/NCAR/iotwx-manual/blob/main/img/hydro-node.jpg"/>
  
 The hydro node is designed to collected and transmit precipitation
 measurements.  
