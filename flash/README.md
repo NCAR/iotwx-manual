@@ -115,7 +115,7 @@ measurements.
 ## Aero Node
 
 <img width="360" alt="aero node"
-src="https://github.com/NCAR/iotwx-manual/raw/master/img/wind-node.jpg"/>
+src="https://github.com/NCAR/iotwx-manual/blob/main/img/wind-node.jpg"/>
 
 The aero node is designed to collect wind vane & anemometer wind speed
 and direction.
