@@ -2,7 +2,7 @@
 
 There are directories containing all the STL files necessary to print the 
 station.  The following nodes are available for printing.  Please consult
-the [parts list](https://drive.google.com/file/d/1Hnn0Ms2DzVQgRFmGBpLQ9W2NGEz2gopc/view?usp=sharing) and [flash instructions](https://github.com/ClimateChangeXplorers/xplorer-manual/tree/master/flash) for the other parts (electronics, etc.) 
+the [parts list](https://drive.google.com/file/d/1lAb784yfsxWOiH-yVCXQ3Ii0yEgUmtUQ/view?usp=sharing) and [flash instructions](https://github.com/NCAR/iotwx-manual/tree/master/flash) for the other parts (electronics, etc.) 
 and code that are necessary to construct a fully operational node.
 
 * [atmos node files](./atmos) are available for the radiation shield
