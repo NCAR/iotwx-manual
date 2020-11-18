@@ -17,5 +17,5 @@ The process for building your station follows 5 major steps:
    getting you on your way to your first 3d-printed automated weather
    station.
    
-   As this is a driven community project, we value your feedback and contributions to improve the weather station. 
+   As this is a community driven project, we value your feedback and contributions to improve the weather station. 
    To contribute updates and changes, you may fork and modify this repo for merging or, more simply, submit issues or comments via [New Issues button]( https://github.com/NCAR/iotwx-manual/issues)
