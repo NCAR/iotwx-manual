@@ -18,4 +18,4 @@ The process for building your station follows 5 major steps:
    station.
    
    As this is a community project, we value your feedback and contributions to improve the weather stations. 
-   To contribute updates and changes, you may fork this repo or add 
+   To contribute updates and changes, you may fork and modify this repo for merging or, more simply, submit issues or comments via [New Issues button]( https://github.com/NCAR/iotwx-manual/issues)
