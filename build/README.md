@@ -49,6 +49,8 @@ You can find the various assembly instructions in the provided PDF files:
 * [Hydro Node Assembly](./NCAR_HYDRO_Node_Assembly_Doc.pdf) instruction set
 * [Atmos Node Assembly](./NCAR_ATMOS_Node_Assembly_Doc.pdf) instruction set
 
+If you would like to contribute proposed changes to the assembly instructions or see other issues please submit it via [New Issues]( https://github.com/NCAR/iotwx-manual/issues)
+
 ## Skeleton/Tabletop Testing
 
 
