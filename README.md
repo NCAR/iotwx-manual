@@ -16,3 +16,6 @@ The process for building your station follows 5 major steps:
 5. [DEPLOY](./deploy): siting and deploying are the final step in
    getting you on your way to your first 3d-printed automated weather
    station.
+   
+   As this is a community project, we value your feedback and contributions to improve the weather stations. 
+   To contribute updates and changes, you may fork this repo or add 
