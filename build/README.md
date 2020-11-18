@@ -1,6 +1,6 @@
 # Building Your Station
 <img width="360" alt="atmos node"
-src="https://github.com/NCAR/iotwx-manual/tree/main/img/station-full.jpg"/>
+src="https://github.com/NCAR/iotwx-manual/blob/main/img/station-full.jpg"/>
 
 **PARTS LIST**
 
