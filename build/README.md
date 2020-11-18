@@ -19,7 +19,7 @@ and hardware that can be found at:
 interested in further customizing their station to specific power needs.
 
 If you only wish to do tabletop testing, you will only need to follow
-the [flash instructions](https://github.com/orgs/NCAR/teams/iotwx/iotwx-manual/tree/master/flash) for the microcontroller and then proceed to
+the [flash instructions](https://github.com/NCAR/iotwx-manual/tree/master/flash) for the microcontroller and then proceed to
 the [tabletop testing](#skeletontabletop-testing). This will eliminate
 the need for making wiring bundles, constructing a PVC frame or printing
 the 3d-printed housing.
