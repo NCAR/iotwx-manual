@@ -36,10 +36,10 @@ enough expertise using them.
 
 
 ## Framing
-
+* [PVC Framing Stand Assembly](./NCAR_PVC_Node_Assembly_Doc.pdf) instruction set
 
 ## Wiring
-
+*coming soon
 
 ## Station Assembly
 
@@ -52,6 +52,7 @@ You can find the various assembly instructions in the provided PDF files:
 This is a community driven project, if you would like to contribute proposed changes to the assembly instructions or see other issues please submit it via [New Issues]( https://github.com/NCAR/iotwx-manual/issues)
 
 ## Skeleton/Tabletop Testing
-
+*coming soon
 
 ## Solar Assembly
+*coming soon
