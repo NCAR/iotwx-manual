@@ -11,6 +11,8 @@ The process for building your station follows 5 major steps:
 3. [FLASH](./flash): in this step you will build the source files and
    flash them onto your device. Should you want to flash the binaries
    directly, there are instructions to do so.
+4. [DATA](./data): in this step you will set up how your data will be 
+   transmitted, stored and otherwise displayed, archived or distrubuted.
 4. [TEST](./test): making sure each node works as expected will insure
    the best experience for your deployment.
 5. [DEPLOY](./deploy): siting and deploying are the final step in
