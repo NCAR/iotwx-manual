@@ -40,7 +40,7 @@ There are a few other steps you will need to complete:
   * FastLED library [https://github.com/FastLED/FastLED](https://github.com/FastLED/FastLED)
   * NTPClient library [https://github.com/arduino-libraries/NTPClient](https://github.com/arduino-libraries/NTPClient)
 
-## ## Editing and Flashing Configuration Files
+## Editing and Flashing Configuration Files
 
 Each node must contain a configuration file in order to operate.  The file contains information about WiFi connections, MQTT connections and some information about the node.
 
