@@ -55,6 +55,7 @@ We are using the [ESP32 SPIFFS filesystem](https://docs.espressif.com/projects/e
 The typical config file  follows:
 
 ```json
+{    
     "iotwx_local_config":"1",
     "iotwx_id":"m5atom/esp32/aaffbbcc",
     "iotwx_mq_ip":"",
@@ -67,6 +68,7 @@ The typical config file  follows:
     "iotwx_wifi_ssid":"",
     "iotwx_topic":"measurements/iotwx",
     "iotwx_max_frequency":"240"
+}
 ```
 
 * `iotwx_local_config` should always be set to `1`.
