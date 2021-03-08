@@ -75,9 +75,9 @@ The typical config file  follows:
 
 * `iotwx_id` should contain a _unique_ identifier for you station as a whole -- that is to say, if you have multiple nodes on the same _physical station_, they would share the same `iotwx_id`.  This identifier is also used in the data portal.
 
-* `iotwx_mq_ip` contains the ip address (e.g. ''172.88.0.13"") of the MQTT broker you will be using.  At the moment only one such broker is allowed. You may use the FQDN ("mymqttsite.wx") but the IP address uses less power by reducing the time WiFi is on to do DNS lookups.
+* `iotwx_mq_ip` contains the ip address (e.g. `''172.88.0.13"`) of the MQTT broker you will be using.  At the moment only one such broker is allowed. You may use the FQDN (`"mymqttsite.wx"`) but the IP address uses less power by reducing the time WiFi is on to do DNS lookups.
 
-* `iotwx_mq_port` contains the port number of the broker, which is typically "1883".
+* `iotwx_mq_port` contains the port number of the broker, which is typically `"1883"`.
 
 * `iotwx_publish_interval` contains the interval you wish your station to transmit in _minutes_.  Note this is relevant primarily for the Atmos node which continuously transmits at the specified interval. Hydro and Aero nodes only transmit when there is data to transmit.
 
@@ -89,7 +89,7 @@ The typical config file  follows:
 
 * `iotwx_wifi_pwd` and `iotwx_wifi_ssid` are the corresponding wifi password and ssid of the network your node will connect to.  Note, it is not necessary (but would be unusual) for all nodes to connect to the same WiFi network.
 
-* `iotwx_topic` contains the MQTT topic your node will publish to.  It is not necessary for all nodes to publish to the same topic, but if you are using the CHORDS MQTT Orchestrator ([GitHub - NCAR/chords-mqtt-orchestrator](https://github.com/NCAR/chords-mqtt-orchestrator)), then you will need to adjust it accordingly to route your messages where they belong.  The current default is `measurements/iotwx`
+* `iotwx_topic` contains the MQTT topic your node will publish to.  It is not necessary for all nodes to publish to the same topic, but if you are using the CHORDS MQTT Orchestrator ([GitHub - NCAR/chords-mqtt-orchestrator](https://github.com/NCAR/chords-mqtt-orchestrator)), then you will need to adjust it accordingly to route your messages where they belong.  The current default is `"measurements/iotwx"`
 
 * `iotwx_max_frequency` is the CPU frequency (in Mhz) you wish your node to run  on.  The m5Stack Atom Lite can be run at frequencies up to 240, but has only been tested down 40 Mhz.  The AeroNode must be set to above `"160"` and runs best at `"240"`.  The Hydro node has been successfully configured at `"40"`  and the Atmos node's best performance is at `"80"`.  Varying the value has power-saving benefits, where we have seen 20-50% reduction in power consumption of a node.
 
